@@ -14,7 +14,7 @@ I write for engineers, because I'm an engineer.
 
 |**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
 |---	|---	|---	|
-|[Doubling My Salary a PowerShell Story](/https://duffney.io/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](https://duffney.io/detaching-from-distraction/)|
+|[Doubling My Salary a PowerShell Story](https://duffney.io/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](https://duffney.io/detaching-from-distraction/)|
 |[Becoming a Craftsman](https://duffney.io/becoming-a-craftsman)||[The Digital Declutter](https://duffney.io/the-digital-declutter/)|
 |[What Matters Beyond the Salary](https://duffney.io/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](https://duffney.io/attention-matters-more-than-time/)|
 |[You're an Engineer be an Engineer](https://duffney.io/youre-an-engineer-be-an-engineer)|   	|   	|
