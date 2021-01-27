@@ -11,7 +11,9 @@ I write for engineers, because I'm an engineer.
 
 ### Books 📚
 
-[become Ansible](https://becomeansible.com/)
+[become Ansible: Zero to Production-Ready](https://becomeansible.com/), 👈 first chapter free.
+
+Available for purchase at [Gumroad](https://gumroad.com/l/become-ansible) or on [LeanPub](https://leanpub.com/becomeansible/). 
 
 [Reclaim: Hit Reset on your digital life](https://duffney.io/reclaim/) _In progress_
 
