@@ -2,7 +2,9 @@
 
 I write for engineers. 
 
-Having spent a decade in the industry, I [put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). My mission is to leverage writing to scale knowledge that's clear, consise, and practical.
+Having spent a decade in the industry, I [put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). 
+
+My mission is to leverage writing to scale knowledge that's clear, consise, and practical.
 
 At my day job, I’m a Senior Content Developer @Microsoft where I focus on Ansible, Terraform, PowerShell, DevOps, and Azure.
 
