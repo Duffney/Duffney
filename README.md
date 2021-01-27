@@ -13,7 +13,7 @@ I write for engineers, because I'm an engineer.
 
 [become Ansible](https://becomeansible.com/)
 
-[Reclaim:Hit Reset on your digital life](https://duffney.io/reclaim/) _In progress_
+[Reclaim: Hit Reset on your digital life](https://duffney.io/reclaim/) _In progress_
 
 <!--
 
