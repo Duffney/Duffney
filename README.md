@@ -2,16 +2,27 @@
 
 I write for engineers, because I'm an engineer.
 
-Having spent a decade in the industry, I [put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). Instead of scaling infrastructure, I now focus on scaling knowledge through writing.
-
+- ex-SRE @StackOverflow
+- former Microsoft MVP (Cloud & Datacenter)
+- [Pluralsight author](https://www.pluralsight.com/authors/josh-duffney)
+- Senior Content Developer @Microsoft
 
 ---
+
+### Books 📚
+
+[become Ansible](https://becomeansible.com/)
+
+[Reclaim:Hit Reset on your digital life](https://duffney.io/reclaim/) _In progress_
 
 <!--
 
 My mission is to develop  to scale knowledge that's clear, consise, and practical.
 I'm an ex-SRE at @StackOverflow, former Microsoft MVP, Pluralsight author and currently work at Microsoft as a Senior Content Developer.
 
+After a decade in the industry, [I put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). Instead of scaling infrastructure, I now focus on scaling through writing.
+
+My m
 
 After writing my first book, I decided to [put down my pager and pick up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). I now spend my work-days writing for doc.microsoft.com. And in my spare time I blog and write a newsletter at [duffney.io](https://duffney.io/newsletter/).
 
@@ -19,11 +30,7 @@ Knowing that my job isn't my career, I seek to master my craft. But without sacr
 
 **"More hours isn't how you get ahead, your ability to focus is."**
 
-### Books 📚
 
-[become Ansible](https://becomeansible.com/)
-
-[Reclaim:Hit Reset on your digital life](https://duffney.io/reclaim/) _In progress_
 
 **Duffney/Duffney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
