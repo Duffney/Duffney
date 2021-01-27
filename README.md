@@ -1,6 +1,6 @@
 ### Hi there, my name is Josh Duffney 👋
 
-I'm an ex-SRE at Stack Overflow, former Microsoft MVP, Pluralsight author and currently work at Microsoft as a Senior Content Developer.
+I'm an ex-SRE at ![Stack Overflow](https://th.bing.com/th/id/R2d47e939feed796bcf7483d306661c88?rik=bYN9bj822A6eWQ&riu=http%3a%2f%2fcdn.sstatic.net%2fSites%2fstackoverflow%2fImg%2fapple-touch-icon%402.png%3fv%3d73d79a89bded&ehk=NWvR%2bOz3fcGnFWjpTmjTbpT17BSywcnRnzQlcugi4LA%3d&risl=&pid=ImgRaw) Stack Overflow, former Microsoft MVP, Pluralsight author and currently work at Microsoft as a Senior Content Developer.
 
 ---
 
