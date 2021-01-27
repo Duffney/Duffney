@@ -1,17 +1,15 @@
 ### Hi there, my name is Josh Duffney 👋
 
+I write for engineers, because I'm an engineer.
+
+Having spent a decade in the industry, I [put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). Instead of scaling infrastructure, I now focus on scaling knowledge through writing.
+
+
 ---
-
-I write for engineers. 
-
-Having spent a decade in the industry, I [put down my pager and picked up the pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/). 
-
-My mission is to leverage writing to scale knowledge that's clear, consise, and practical.
-
-At my day job, I’m a Senior Content Developer @Microsoft where I focus on Ansible, Terraform, PowerShell, DevOps, and Azure.
 
 <!--
 
+My mission is to develop  to scale knowledge that's clear, consise, and practical.
 I'm an ex-SRE at @StackOverflow, former Microsoft MVP, Pluralsight author and currently work at Microsoft as a Senior Content Developer.
 
 
