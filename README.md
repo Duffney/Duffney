@@ -6,9 +6,9 @@ Having spent a decade in the industry, I [put down my pager and picked up the pe
 
 My mission is to leverage writing to scale knowledge that's clear, consise, and practical.
 
-At my day job, I’m a Senior Content Developer @Microsoft where I focus on Ansible, Terraform, PowerShell, DevOps, and Azure.
-
 ---
+
+At my day job, I’m a Senior Content Developer @Microsoft where I focus on Ansible, Terraform, PowerShell, DevOps, and Azure.
 
 <!--
 
