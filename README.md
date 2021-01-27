@@ -16,8 +16,8 @@ I write for engineers, because I'm an engineer.
 |---	|---	|---	|
 |[Doubling My Salary a PowerShell Story](https://duffney.io/doubling-my-salary-a-powershell-story/)|   	|[Detaching from Distraction](https://duffney.io/detaching-from-distraction/)|
 |[Becoming a Craftsman](https://duffney.io/becoming-a-craftsman)||[The Digital Declutter](https://duffney.io/the-digital-declutter/)|
-|[What Matters Beyond the Salary](https://duffney.io/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](https://duffney.io/attention-matters-more-than-time/)🔥|
-|[You're an Engineer be an Engineer](https://duffney.io/youre-an-engineer-be-an-engineer)🔥|   	|   	|
+|[What Matters Beyond the Salary](https://duffney.io/what-matters-beyond-the-salary)|   	|[Attention Matters More than Time](https://duffney.io/attention-matters-more-than-time/) ⭐|
+|[You're an Engineer be an Engineer](https://duffney.io/youre-an-engineer-be-an-engineer) ⭐|   	|   	|
 |[Building a New Identity](https://duffney.io/building-a-new-identity/)|   	|   	|
 |[Putting Down the Pager to Pick up the Pen](https://duffney.io/putting-down-the-pager-to-pick-up-the-pen/)|   	|   	|
 
