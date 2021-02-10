@@ -10,6 +10,12 @@ I write for engineers, because I'm an engineer.
 
 ---
 
+### Recent Podcasts Appearances
+
+- [Developer Weekly Podcast: Career, life, learning, teaching, writing and burnout with Josh Duffney](https://developerweeklypodcast.com/34/career-life-learning-teaching-writing-and-burnout-with-josh-duffney)
+- [Writer on the Side: Ep. 062 Josh Duffney on How his Book led to a Job at Microsoft](https://www.writerontheside.com/josh-duffney-on-how-his-book-led-to-a-job-at-microsoft/)
+- [Carl’s Curious about Josh Duffney](https://carlleducq.podbean.com/e/carls-curious-about-josh-duffney/)
+
 ### Popular Posts
 
 |**From Help-Desk to Microsoft**|<img width=50/>|**Engineering-Focus**|
