@@ -1,7 +1,5 @@
 ### Hi there, my name is Josh Duffney 👋
 
-I write for engineers, because I'm an engineer.
-
 - ex-SRE @StackOverflow
 - former Microsoft MVP (Cloud & Datacenter)
 - [Pluralsight author](https://www.pluralsight.com/authors/josh-duffney)
